@@ -1,4 +1,15 @@
-# Obsidian
+<h2 align="center">Obsidian</h2>
+
+
+## About Me
+* Senior Cloud SOC Analyst with experience building and maturing detection and response capabilities in Fortune 500 companies.
+
+
+
+## Contact Info
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-banks-3b7712105/)
+
+
 
 ## Certifications
 
