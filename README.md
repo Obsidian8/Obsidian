@@ -4,6 +4,7 @@
 ## About Me
 * Senior Cloud SOC Analyst with experience building and maturing detection and response capabilities in Fortune 500 companies.
 * GIAC Advisory Board Member
+* Cloud Securiity Alliance Los Angeles Member
 * When I am not working, I enjoy cooking and traveling.
 
 
