@@ -1,4 +1,4 @@
-<h2 align="center">Obsidian</h2>
+
 
 
 ## About Me
